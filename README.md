@@ -14,8 +14,12 @@
 - [成交公示详情页-山东省采购与招标网]( https://www.sdbidding.org.cn/bulletins/invitation/2360962 )
 - [葫芦岛公共资源中心]( http://www.hldggzyjyzx.com.cn/jyxx/003001/003001004/20201120/17cfd1e8-22c9-4275-badb-5200ac3a7945.html )
 
+## 运行结果
+
+![](result.png)
 
 ## 参考教程
+
 - [(54 条消息) 爬虫如何自动识别一个网站的正文标题而不需要配置一些参数？ - 知乎]( https://www.zhihu.com/question/268769681 )
 - [GitHub - codelucas/newspaper: News, full-text, and article metadata extraction in Python 3. Advanced docs:]( https://github.com/codelucas/newspaper )
 
